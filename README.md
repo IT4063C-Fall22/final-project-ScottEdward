@@ -1,5 +1,4 @@
-# Final-Project-Template
-<!-- Edit the title above with your project title -->
+# The Amtrak Dilemma
 
 ## Installing Dependencies
 This assignment does not assume any particular setup. To install the dependencies, please run the command relevant to you're setup.
